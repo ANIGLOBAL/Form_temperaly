@@ -1,0 +1,9 @@
+# Repo nay chi chua giao dien da build san.
+# Nguon React nam o may cua lap trinh vien, khong day len day.
+node_modules/
+src/
+package.json
+package-lock.json
+vite.config.js
+*.local
+.DS_Store
